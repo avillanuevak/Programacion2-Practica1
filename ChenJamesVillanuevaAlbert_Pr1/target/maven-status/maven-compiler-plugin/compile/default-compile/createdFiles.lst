@@ -1,0 +1,14 @@
+prog2\model\Reserva.class
+prog2\model\Gimnas.class
+prog2\model\Servei.class
+prog2\model\PistaFutbol.class
+prog2\model\LlistaReserves.class
+prog2\model\InLlistaReserves.class
+prog2\model\InGimnas.class
+prog2\model\Pista.class
+prog2\model\SalaFitness.class
+prog2\vista\GestorServeisGimnas.class
+prog2\vista\ExcepcioReserva.class
+prog2\model\Soci.class
+prog2\model\InServeiReservable.class
+prog2\model\PistaTenis.class
